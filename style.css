@@ -1,0 +1,21 @@
+#im1{
+    background-image: url('https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/06/04/10/ScreenAnime-2.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+    font-family: Roboto;
+    color:rgb(22, 11, 11);
+    }
+    #tes2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(216, 121, 216);
+    }
+    #impage2{
+    background-image: url('https://cocohitsny.files.wordpress.com/2014/12/screen-shot-2014-12-02-at-1-07-31-a-m.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+    }
+    #carouselControls{
+    height: 100%;
+    }
